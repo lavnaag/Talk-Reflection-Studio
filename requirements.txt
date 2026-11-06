@@ -1,0 +1,6 @@
+streamlit>=1.38,<2
+openai>=1.70,<3
+pydantic>=2,<3
+youtube-transcript-api>=1.2,<2
+requests>=2.31,<3
+python-dotenv>=1,<2
